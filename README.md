@@ -1,7 +1,7 @@
 # Challenge-Amigo-Secreto
 
 
-Este proyecto tiene como objetivo principal permitir ingresar el nombre de amigos y despues sortear para posterior descubrir quien es la persona que te salio como amigo secreto.
+Este proyecto tiene como objetivo principal permitir ingresar el nombre de amigos y despues sortearlos. A continuación descubriras quien es la persona que te salio como amigo secreto de tu lista de amigos ingresados
 
 Abre la aplicacion en tu navegador y observaras lo siguiente
 <img width="711" alt="image" src="https://github.com/user-attachments/assets/3ab59401-ec2a-4c3d-a92a-13d627ec452e" />
